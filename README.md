@@ -3,6 +3,7 @@ Simba Build History
 
 Date | Branch | Commit | Link
 ---- | -------| -------| ----
+2024/04-24 | properties | [034a9ccba7daaa15a3e1e7236e01ec021572049a](https://github.com/Villavu/Simba/commit/034a9ccba7daaa15a3e1e7236e01ec021572049a) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/04-24%20properties%20034a9ccba7daaa15a3e1e7236e01ec021572049a)
 2024/04-24 | properties | [77ddae75def71c10a0168e36134c386cfb1e0224](https://github.com/Villavu/Simba/commit/77ddae75def71c10a0168e36134c386cfb1e0224) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/04-24%20properties%2077ddae75def71c10a0168e36134c386cfb1e0224)
 2024/04-23 | properties | [6cdd2a71a303b51e262f0d2153ddab2fe8955520](https://github.com/Villavu/Simba/commit/6cdd2a71a303b51e262f0d2153ddab2fe8955520) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/04-23%20properties%206cdd2a71a303b51e262f0d2153ddab2fe8955520)
 2024/04-22 | simba2000 | [73d3f84e8d10aaea856716e8c15725854256e7da](https://github.com/Villavu/Simba/commit/73d3f84e8d10aaea856716e8c15725854256e7da) | [Link](https://github.com/Villavu/Simba-Build-Archive/tree/main/2024/04-22%20simba2000%2073d3f84e8d10aaea856716e8c15725854256e7da)
